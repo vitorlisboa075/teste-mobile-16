@@ -1,0 +1,2 @@
+# Testes-Mobile-1
+Exercício referente ao módulo 16 do curso de Engenheiro de qualidade de Software da EBAC. Este módulo mostrou os principais comandos de testes mobile usando como ferramentas: Appium, Android Studio e WebdriverIO
